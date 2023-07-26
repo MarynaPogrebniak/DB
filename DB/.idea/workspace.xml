@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd1e077-fde3-4111-af47-ec1e91daad92" name="Changes" comment="added homework_1">
-      <change beforePath="$PROJECT_DIR$/DB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DB_homework1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DB_homework1/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="4fd1e077-fde3-4111-af47-ec1e91daad92" name="Changes" comment="updated homework_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690218653130</updated>
-      <workItem from="1690218654163" duration="363000" />
+      <workItem from="1690218654163" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="added homework_1">
       <option name="closed" value="true" />
@@ -68,7 +68,31 @@
       <option name="project" value="LOCAL" />
       <updated>1690218926037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated homework_1">
+      <option name="closed" value="true" />
+      <created>1690219037598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690219037598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated homework_1">
+      <option name="closed" value="true" />
+      <created>1690219085022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690219085022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated homework_1">
+      <option name="closed" value="true" />
+      <created>1690219225171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690219225171</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added homework_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework_1" />
+    <MESSAGE value="updated homework_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated homework_1" />
   </component>
 </project>
