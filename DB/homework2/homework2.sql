@@ -35,7 +35,7 @@ SELECT DISTINCT
 FROM Products
          JOIN Suppliers ON Products.SupplierID=Suppliers.SupplierID
          JOIN Categories ON Products.CategoryID=Categories.CategoryID
-WHERE CategoryName='Beverages'
+WHERE CategoryName='Seafood'
 
 Очистить поле ContactName у всех клиентов не из China
 
