@@ -39,7 +39,7 @@ ORDER BY Price ASC
 
 Применить наценку в 15% ко всем товарам из категории 4
 
-SELECT
+UPDATE
         Price * 1.15 AS price_plus
 FROM Products
 WHERE CategoryID = 4
