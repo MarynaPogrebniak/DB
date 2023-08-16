@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd1e077-fde3-4111-af47-ec1e91daad92" name="Changes" comment="updated homework_1">
-      <change afterPath="$PROJECT_DIR$/homework_4/homework_4.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4fd1e077-fde3-4111-af47-ec1e91daad92" name="Changes" comment="updated homework_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +67,7 @@
       <workItem from="1691672889661" duration="25000" />
       <workItem from="1691672928736" duration="56000" />
       <workItem from="1691951696434" duration="18000" />
+      <workItem from="1691998663727" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="added homework_1">
       <option name="closed" value="true" />
